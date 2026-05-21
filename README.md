@@ -1,7 +1,7 @@
 ### Hi there 
-I'm a management information systems student from Ankara/Turkey.
-Currently learning about data analytics and data science.
-Interested in: Web 3.0 and blockchain technologies.
+Decided to came back because I wanted to challenge myself for this summer.
+Planning to work on lots and lots of replications.
+That's all for now bye.
 
 <!--
 **selcukemreisik/selcukemreisik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
